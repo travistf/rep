@@ -1,4 +1,4 @@
-os_custom:  travits/org
+os_custom:  travistf/org
 jobs:
 script:
 - sleep 10
