@@ -1,4 +1,4 @@
-os_custom:  img1
+os_custom:  travits/org
 jobs:
 script:
 - sleep 10
